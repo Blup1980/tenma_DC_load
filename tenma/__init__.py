@@ -1,0 +1,1 @@
+from .tenma72_13200 import tenma72_13200
